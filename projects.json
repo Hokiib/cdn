@@ -3,7 +3,6 @@
     "title": "Project 1",
     "description": "Description of Project 1",
     "publishedAt": "01-08-2023",
-    "tags": ["Hyping"],
     "link": "https://github.com/estxbxn/cdn/tree/dev",
     "image": "https://raw.githubusercontent.com/estxbxn/cdn/dev/projects/hyping-banner.jpg"
   },
@@ -11,7 +10,6 @@
     "title": "Project 2",
     "description": "Description of Project 2",
     "publishedAt": "02-08-2023",
-    "tags": ["Hyping"],
     "link": "https://github.com/estxbxn/cdn/tree/dev",
     "image": "https://raw.githubusercontent.com/estxbxn/cdn/dev/projects/hyping-banner.jpg"
   },
@@ -19,7 +17,6 @@
     "title": "Project 3",
     "description": "Description of Project 3",
     "publishedAt": "03-08-2023",
-    "tags": ["Hyping"],
     "link": "https://github.com/estxbxn/cdn/tree/dev",
     "image": "https://raw.githubusercontent.com/estxbxn/cdn/dev/projects/hyping-banner.jpg"
   },
@@ -27,7 +24,6 @@
     "title": "Project 4",
     "description": "Description of Project 4",
     "publishedAt": "04-08-2023",
-    "tags": ["Lysaria"],
     "link": "https://github.com/estxbxn/cdn/tree/dev",
     "image": "https://raw.githubusercontent.com/estxbxn/cdn/dev/projects/hyping-banner.jpg"
   }
