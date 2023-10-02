@@ -1,30 +1,16 @@
 [
   {
-    "title": "Project 1",
-    "description": "Description of Project 1",
-    "publishedAt": "01-08-2023",
-    "link": "https://github.com/estxbxn/cdn/tree/dev",
-    "image": "https://raw.githubusercontent.com/estxbxn/cdn/dev/projects/hyping-banner.jpg"
+    "title": "Elarys",
+    "description": "Plugin de skyblock",
+    "publishedAt": "02-10-2023",
+    "link": "",
+    "image": "https://raw.githubusercontent.com/Hokiib/hokib.com/main/images/elarys.jpg"
   },
   {
-    "title": "Project 2",
-    "description": "Description of Project 2",
-    "publishedAt": "02-08-2023",
-    "link": "https://github.com/estxbxn/cdn/tree/dev",
-    "image": "https://raw.githubusercontent.com/estxbxn/cdn/dev/projects/hyping-banner.jpg"
-  },
-  {
-    "title": "Project 3",
-    "description": "Description of Project 3",
-    "publishedAt": "03-08-2023",
-    "link": "https://github.com/estxbxn/cdn/tree/dev",
-    "image": "https://raw.githubusercontent.com/estxbxn/cdn/dev/projects/hyping-banner.jpg"
-  },
-  {
-    "title": "Project 4",
-    "description": "Description of Project 4",
-    "publishedAt": "04-08-2023",
-    "link": "https://github.com/estxbxn/cdn/tree/dev",
-    "image": "https://raw.githubusercontent.com/estxbxn/cdn/dev/projects/hyping-banner.jpg"
+    "title": "Hyping",
+    "description": "Serveur oneblock",
+    "publishedAt": "02-10-2023",
+    "link": "https://hyping.fr",
+    "image": "https://raw.githubusercontent.com/Hokiib/hokib.com/main/images/hyping.jpg"
   }
 ]
