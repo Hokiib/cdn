@@ -7,14 +7,14 @@
       "Minecraft",
       "Elarys"
     ],
-    "description": "Multiples plugins lié au SkyBlock",
+    "description": "Multiples plugins liés au SkyBlock",
     "publishedAt": "01-08-2022",
     "images": [
-      "https://cdn.hokib.com/images/elarys.jpg"
+      "https://cdn.hokib.com/images/elarys/elarys.jpg"
     ]
   },
   {
-    "thumbnail": "https://cdn.hokib.com/images/hyping.jpg",
+    "thumbnail": "https://cdn.hokib.com/images/hyping/hyping.jpg",
     "title": "HypingFarm",
     "tags": [
       "Java",
@@ -24,11 +24,11 @@
     "description": "Ce plugin permet de créer des évènements comprenant des classements de joueurs avec des points, prenant en compte la pêche, les kills de mobs, le placage et cassage de blocs.",
     "publishedAt": "01-03-2023",
     "images": [
-      "https://cdn.hokib.com/images/hyping.jpg"
+      "https://cdn.hokib.com/images/hyping/farm/farm.gif"
     ]
   },
   {
-    "thumbnail": "https://cdn.hokib.com/images/hyping.jpg",
+    "thumbnail": "https://cdn.hokib.com/images/hyping/hyping.jpg",
     "title": "HypingScheduler",
     "tags": [
       "Java",
@@ -38,11 +38,12 @@
     "description": "Ce plugin permet la gestion de multiples taches exécutées à une date précise (01/02/2023 14:32), tous les jours (14:00), par jour précis (7/18). Cela permet aussi d’afficher le prochain événement exécuté.",
     "publishedAt": "02-03-2023",
     "images": [
-      "https://cdn.hokib.com/images/hyping.jpg"
+      "https://cdn.hokib.com/images/hyping/scheduler/scheduler.png",
+      "https://cdn.hokib.com/images/hyping/scheduler/scheduler.gif"
     ]
   },
   {
-    "thumbnail": "https://cdn.hokib.com/images/hyping.jpg",
+    "thumbnail": "https://cdn.hokib.com/images/hyping/hyping.jpg",
     "title": "HypingEnvoy",
     "tags": [
       "Java",
@@ -52,11 +53,13 @@
     "description": "Ce plugin permet de créer des événements de largages de coffres à des positions prédéfinies par un mode éditeur, le contenu des coffres est aléatoire.",
     "publishedAt": "03-03-2023",
     "images": [
-      "https://cdn.hokib.com/images/hyping.jpg"
+      "https://cdn.hokib.com/images/hyping/envoy/envoy.png",
+      "https://cdn.hokib.com/images/hyping/envoy/envoy.gif",
+      "https://cdn.hokib.com/images/hyping/envoy/envoy-open.gif"
     ]
   },
   {
-    "thumbnail": "https://cdn.hokib.com/images/hyping.jpg",
+    "thumbnail": "https://cdn.hokib.com/images/hyping/hyping.jpg",
     "title": "HypingMine",
     "tags": [
       "Java",
@@ -66,11 +69,12 @@
     "description": "Ce plugin permet de créer différentes mines, avec différents étages, minerais, accessibles par des permissions.",
     "publishedAt": "04-03-2023",
     "images": [
-      "https://cdn.hokib.com/images/hyping.jpg"
+      "https://cdn.hokib.com/images/hyping/mine/mine.png",
+      "https://cdn.hokib.com/images/hyping/mine/mine.gif"
     ]
   },
   {
-    "thumbnail": "https://cdn.hokib.com/images/hyping.jpg",
+    "thumbnail": "https://cdn.hokib.com/images/hyping/hyping.jpg",
     "title": "HypingMining",
     "tags": [
       "Java",
@@ -80,11 +84,11 @@
     "description": "Ce plugin permet de créer différents évènements reliés à l’api de HypingMine, prenant en compte le cassage de blocs des minerais de la mine, on retrouve notamment un classement.",
     "publishedAt": "05-03-2023",
     "images": [
-      "https://cdn.hokib.com/images/hyping.jpg"
+      "https://cdn.hokib.com/images/hyping/mining/mining.gif"
     ]
   },
   {
-    "thumbnail": "https://cdn.hokib.com/images/hyping.jpg",
+    "thumbnail": "https://cdn.hokib.com/images/hyping/hyping.jpg",
     "title": "HypingBees",
     "tags": [
       "Java",
@@ -94,25 +98,12 @@
     "description": "Ce plugin permet de créer des ruches customisées, remplacent celles classiques de Minecraft, et supprimant les abeilles.",
     "publishedAt": "06-03-2023",
     "images": [
-      "https://cdn.hokib.com/images/hyping.jpg"
+      "https://cdn.hokib.com/images/hyping/bees/bee.png",
+      "https://cdn.hokib.com/images/hyping/bees/bee.gif"
     ]
   },
   {
-    "thumbnail": "https://cdn.hokib.com/images/hyping.jpg",
-    "title": "HypingCore",
-    "tags": [
-      "Java",
-      "Minecraft",
-      "Hyping"
-    ],
-    "description": "Ce plugin rassemble toutes les fonctionnalités mineures et les commandes de base utiles pour un serveur, ce plugin étant similaire à Essentials.",
-    "publishedAt": "07-03-2023",
-    "images": [
-      "https://cdn.hokib.com/images/hyping.jpg"
-    ]
-  },
-  {
-    "thumbnail": "https://cdn.hokib.com/images/hyping.jpg",
+    "thumbnail": "https://cdn.hokib.com/images/hyping/hyping.jpg",
     "title": "HypingMobs",
     "tags": [
       "Java",
@@ -122,11 +113,12 @@
     "description": "Ce plugin permet la gestion de différents mobs customs, dans différentes colonies et différents étages, avec un nombre de mobs maximum par zone et un temps de respawn custom.",
     "publishedAt": "08-03-2023",
     "images": [
-      "https://cdn.hokib.com/images/hyping.jpg"
+      "https://cdn.hokib.com/images/hyping/mobs/mobs.png",
+      "https://cdn.hokib.com/images/hyping/mobs/mobs.gif"
     ]
   },
   {
-    "thumbnail": "https://cdn.hokib.com/images/hyping.jpg",
+    "thumbnail": "https://cdn.hokib.com/images/hyping/hyping.jpg",
     "title": "HypingBoss",
     "tags": [
       "Java",
@@ -136,11 +128,12 @@
     "description": "Ce plugin permet de créer de multiples boss, avec plusieurs facteurs à prendre en compte tel que la vie du boss.",
     "publishedAt": "09-03-2023",
     "images": [
-      "https://cdn.hokib.com/images/hyping.jpg"
+      "https://cdn.hokib.com/images/hyping/boss/boss.png",
+      "https://cdn.hokib.com/images/hyping/boss/boss.gif"
     ]
   },
   {
-    "thumbnail": "https://cdn.hokib.com/images/hyping.jpg",
+    "thumbnail": "https://cdn.hokib.com/images/hyping/hyping.jpg",
     "title": "HypingChestEvent",
     "tags": [
       "Java",
@@ -150,11 +143,12 @@
     "description": "Ce plugin permet de créer des évènements de coffre-fort ouvrables à partir d’un compteur, prenant en compte les placeholders, les kills de mobs, le placage et cassage de blocs.",
     "publishedAt": "10-03-2023",
     "images": [
-      "https://cdn.hokib.com/images/hyping.jpg"
+      "https://cdn.hokib.com/images/hyping/chest-event/chest-event.png",
+      "https://cdn.hokib.com/images/hyping/chest-event/chestevent.gif"
     ]
   },
   {
-    "thumbnail": "https://cdn.hokib.com/images/hyping.jpg",
+    "thumbnail": "https://cdn.hokib.com/images/hyping/hyping.jpg",
     "title": "HypingDungeons",
     "tags": [
       "Java",
@@ -164,11 +158,14 @@
     "description": "Ce plugin permet de créer des dungeons, avec plusieurs vagues, des mobs différents, et utilisant l’api de HypingBoss afin de créer des boss.",
     "publishedAt": "11-03-2023",
     "images": [
-      "https://cdn.hokib.com/images/hyping.jpg"
+      "https://cdn.hokib.com/images/hyping/dungeons/dungeons.gif",
+      "https://cdn.hokib.com/images/hyping/dungeons/dungeons1.png",
+      "https://cdn.hokib.com/images/hyping/dungeons/dungeons2.png",
+      "https://cdn.hokib.com/images/hyping/dungeons/dungeons3.png"
     ]
   },
   {
-    "thumbnail": "https://cdn.hokib.com/images/hyping.jpg",
+    "thumbnail": "https://cdn.hokib.com/images/hyping/hyping.jpg",
     "title": "HypingProfile",
     "tags": [
       "Java",
@@ -178,11 +175,13 @@
     "description": "Ce plugin permet de créer des profils de joueurs, où on y retrouve de multiples statistiques, des accès aux paramètres, ou encore les slots pour déposer les cosmétiques et les pets.",
     "publishedAt": "12-03-2023",
     "images": [
-      "https://cdn.hokib.com/images/hyping.jpg"
+      "https://cdn.hokib.com/images/hyping/profil/profil.gif",
+      "https://cdn.hokib.com/images/hyping/profil/profil.png",
+      "https://cdn.hokib.com/images/hyping/profil/profil-api.gif"
     ]
   },
   {
-    "thumbnail": "https://cdn.hokib.com/images/hyping.jpg",
+    "thumbnail": "https://cdn.hokib.com/images/hyping/hyping.jpg",
     "title": "HypingOutpost",
     "tags": [
       "Java",
@@ -192,7 +191,7 @@
     "description": "Ce plugin permet de créer des zones qui peuvent se faire conquérir par une île à la fois, celle-ci rapportant des récompenses.",
     "publishedAt": "13-03-2023",
     "images": [
-      "https://cdn.hokib.com/images/hyping.jpg"
+      "https://cdn.hokib.com/images/hyping/outpost/outpost.gif"
     ]
   }
 ]
