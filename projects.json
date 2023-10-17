@@ -194,19 +194,5 @@
     "images": [
       "https://cdn.hokib.com/images/hyping.jpg"
     ]
-  },
-  {
-    "thumbnail": "https://cdn.hokib.com/images/hyping.jpg",
-    "title": "HypingPets",
-    "tags": [
-      "Java",
-      "Minecraft",
-      "Hyping"
-    ],
-    "description": "Ce plugin permet de créer des pets customs avec différents niveaux, skills, bonus. Ces pets sont accessibles via l’api de HypingProfile, où l’œuf est stocké.",
-    "publishedAt": "14-03-2023",
-    "images": [
-      "https://cdn.hokib.com/images/hyping.jpg"
-    ]
   }
 ]
