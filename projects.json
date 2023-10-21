@@ -14,7 +14,7 @@
     ]
   },
   {
-    "thumbnail": "https://cdn.hokib.com/images/hyping/hyping.jpg",
+    "thumbnail": "https://cdn.hokib.com/images/hyping/farm/thumbnail.png",
     "title": "HypingFarm",
     "tags": [
       "Java",
@@ -28,7 +28,7 @@
     ]
   },
   {
-    "thumbnail": "https://cdn.hokib.com/images/hyping/hyping.jpg",
+    "thumbnail": "https://cdn.hokib.com/images/hyping/scheduler/thumbnail.png",
     "title": "HypingScheduler",
     "tags": [
       "Java",
@@ -43,7 +43,7 @@
     ]
   },
   {
-    "thumbnail": "https://cdn.hokib.com/images/hyping/hyping.jpg",
+    "thumbnail": "https://cdn.hokib.com/images/hyping/envoy/thumbnail.png",
     "title": "HypingEnvoy",
     "tags": [
       "Java",
@@ -59,7 +59,7 @@
     ]
   },
   {
-    "thumbnail": "https://cdn.hokib.com/images/hyping/hyping.jpg",
+    "thumbnail": "https://cdn.hokib.com/images/hyping/mine/thumbnail.png",
     "title": "HypingMine",
     "tags": [
       "Java",
@@ -74,7 +74,7 @@
     ]
   },
   {
-    "thumbnail": "https://cdn.hokib.com/images/hyping/hyping.jpg",
+    "thumbnail": "https://cdn.hokib.com/images/hyping/mining/thumbnail.png",
     "title": "HypingMining",
     "tags": [
       "Java",
@@ -88,7 +88,7 @@
     ]
   },
   {
-    "thumbnail": "https://cdn.hokib.com/images/hyping/hyping.jpg",
+    "thumbnail": "https://cdn.hokib.com/images/hyping/bees/thumbnail.png",
     "title": "HypingBees",
     "tags": [
       "Java",
@@ -103,7 +103,7 @@
     ]
   },
   {
-    "thumbnail": "https://cdn.hokib.com/images/hyping/hyping.jpg",
+    "thumbnail": "https://cdn.hokib.com/images/hyping/mobs/thumbnail.png",
     "title": "HypingMobs",
     "tags": [
       "Java",
@@ -118,7 +118,7 @@
     ]
   },
   {
-    "thumbnail": "https://cdn.hokib.com/images/hyping/hyping.jpg",
+    "thumbnail": "https://cdn.hokib.com/images/hyping/boss/thumbnail.png",
     "title": "HypingBoss",
     "tags": [
       "Java",
@@ -133,7 +133,7 @@
     ]
   },
   {
-    "thumbnail": "https://cdn.hokib.com/images/hyping/hyping.jpg",
+    "thumbnail": "https://cdn.hokib.com/images/hyping/chest-event/thumbnail.png",
     "title": "HypingChestEvent",
     "tags": [
       "Java",
@@ -148,7 +148,7 @@
     ]
   },
   {
-    "thumbnail": "https://cdn.hokib.com/images/hyping/hyping.jpg",
+    "thumbnail": "https://cdn.hokib.com/images/hyping/dungeons/thumbnail.png",
     "title": "HypingDungeons",
     "tags": [
       "Java",
@@ -165,7 +165,7 @@
     ]
   },
   {
-    "thumbnail": "https://cdn.hokib.com/images/hyping/hyping.jpg",
+    "thumbnail": "https://cdn.hokib.com/images/hyping/profil/thumbnail.png",
     "title": "HypingProfile",
     "tags": [
       "Java",
@@ -181,7 +181,7 @@
     ]
   },
   {
-    "thumbnail": "https://cdn.hokib.com/images/hyping/hyping.jpg",
+    "thumbnail": "https://cdn.hokib.com/images/hyping/outpost/thumbnail.png",
     "title": "HypingOutpost",
     "tags": [
       "Java",
