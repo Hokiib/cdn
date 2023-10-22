@@ -155,7 +155,7 @@
       "Minecraft",
       "Hyping"
     ],
-    "description": "Ce plugin permet de créer des dungeons, avec plusieurs vagues, des mobs différents, et utilisant l’api de HypingBoss afin de créer des boss.",
+    "description": "Ce plugin permet de créer des dungeons, avec plusieurs vagues, des mobs différents, et en utilisant l’api de HypingBoss afin de créer des boss.",
     "publishedAt": "11-03-2023",
     "images": [
       "https://cdn.hokib.com/images/hyping/dungeons/dungeons.gif",
