@@ -193,5 +193,19 @@
     "images": [
       "https://cdn.hokib.com/images/hyping/outpost/outpost.gif"
     ]
+  },
+  {
+    "thumbnail": "https://cdn.hokib.com/images/hyping/heartsapi/thumbnail.png",
+    "title": "HeartsAPI",
+    "tags": [
+      "Java",
+      "Minecraft",
+      "Hyping"
+    ],
+    "description": "Ce plugin est une API permettant la gestion de coeurs supplémentaires dans multiples plugins",
+    "publishedAt": "14-03-2023",
+    "images": [
+      "https://cdn.hokib.com/images/hyping/heartsapi/heartsapi.gif"
+    ]
   }
 ]
