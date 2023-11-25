@@ -207,5 +207,20 @@
     "images": [
       "https://cdn.hokib.com/images/hyping/heartsapi/heartsapi.gif"
     ]
+  },
+  {
+    "thumbnail": "https://cdn.hokib.com/images/hokib/hobot/thumbnail.png",
+    "title": "Hobot",
+    "tags": [
+      "Java",
+      "Discord",
+      "Bot"
+    ],
+    "description": "Cette application permet la gestion de plusieurs bots en simultanée. Elle permet de modifier certains attributs, ou d'effecter des actions.",
+    "publishedAt": "15-03-2023",
+    "images": [
+      "https://cdn.hokib.com/images/hokib/hobot/hobot.png",
+      "https://cdn.hokib.com/images/hokib/hobot/hobot.gif"
+    ]
   }
 ]
