@@ -7,5 +7,14 @@
       "position": "FullStack Web Developer",
       "image": "https://cdn.espiec.com/recommendations/estxbxn.jpg"
     }
-  }
+  },
+  {
+      "content":
+        "Hokib s'est montré attentif à nos demandes sur de longues périodes, avec une grande flexibilité sur ses disponibilités. Pris en charge par notre lead-developper, Hokib a saisi l'occasion d'une bonne montée en compétences en ce qui concerne Java/APISpigot.",
+      "author": {
+        "name": "Press",
+        "position": "Fondateur de Hyping",
+        "image": "https://cdn.hokib.com/images/recommendations/press.png"
+      }
+    }
 ]
